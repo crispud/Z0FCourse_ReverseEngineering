@@ -1,5 +1,5 @@
 # ATTENTION:
-## **This course is still in early development and it is going to be reworked soon. I plan on adding a significant amount of content. For now, this course is going to be hosted here on Github, however, that will most likely change in the future. To stay updated, follow me on [Twitter](https://twitter.com/0xZ0F).**
+## **This course is still in early development. I plan on adding a significant amount of content. For now, this course is going to be hosted here on Github, however, that will most likely change in the future. To stay updated, follow me on [Twitter](https://twitter.com/0xZ0F).**
 
 ## Read [BeforeYouBegin](@BeforeYouBegin.md)
 
@@ -98,3 +98,10 @@ The best way to stay up-to-date is to support me on Patreon which will give you 
     * [7.1 Virtual Memory](Chapter%207%20-%20Windows/7.1%20VirtualMemory.md)
     * [7.2 Privileges](Chapter%207%20-%20Windows/7.2%20Privileges.md)
     * [7.3 Architecture](Chapter%207%20-%20Windows/7.3%20Architecture.md) - WIP
+
+* ### [Chapter 8 - Generic Table](Chapter%208%20-%20Generic%20Table) - WIP
+    * [8.00 Generic Table](Chapter%208%20-%20Generic%20Table/8.00%20GenericTable.md)
+    * [8.01 InitializeTable](Chapter%208%20-%20Generic%20Table/8.01%20InitializeTable.md)
+    * [8.02 NumberGenericTableElements.md](Chapter%208%20-%20Generic%20Table/8.02%20NumberGenericTableElements.md)
+    * [8.03 IsGenericTableEmpty.md](Chapter%208%20-%20Generic%20Table/8.03%20IsGenericTableEmpty.md)
+    * [8.04 GetElement](Chapter%208%20-%20Generic%20Table/8.04%20GetElement.md)
