@@ -1,5 +1,9 @@
 # Moving Course:
-This course is officially moving to [Guided Hacking](https://guidedhacking.com/)! I will be moving it one chapter at a time. It's a big change, but it's for the better. This will motivate me to keep pushing loads of content out, so it's a win for everyone. Can't wait to see what the future holds.
+Fantastic news, the reverse engineering course is officially moving to [TryHackMe](https://tryhackme.com/)! It's going to be fairly slow, but I can't wait for it! The best part is it's going to be way more interactive. You'll have samples and tools provided, and you'll be able to follow along with the course. Thank you all for your support even in the current time where updates are sparse. I promise you all it's going to be great <3
+
+Check my profile for the rooms I create, because there's a review process it's probably going to be a bit. I'll update this message when the first room is out!
+
+https://tryhackme.com/p/Z0F
 
 ## Read [BeforeYouBegin](@BeforeYouBegin.md)
 
